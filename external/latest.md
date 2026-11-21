@@ -68,7 +68,7 @@
 - 一句话事实：快手 11-19 三季度业绩演示材料写明：国际动画长片《MINIBOTS》将可灵 AI 应用于专业制作流程，探索 AI 在 4K 院线级动画制作中的应用。图像侧，可灵 11-17 发布 Kling Image 4.0：采用“统一理解与生成”架构，首个支持原生 8K 图像生成，单图可生成 2000 个汉字，一次提示词最多出 10 张系列图，支持电商长图，并已开放 API。
 - 关键数据：《MINIBOTS》4K 院线级动画；Kling Image 4.0 原生 8K、单图 2000 字、一次 10 张、API 开放
 - 发生时间：2026-11-19
-- 来源链接：https://ir.kuaishou.com/system/files-encrypted/nasdaq_kms/assets/2026/11/19/17-03-15/2026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%BF%AB%E6%89%8B%E7%A7%91%E6%8A%80%E5%BC%94%E7%A4%80%D0%A1%E4%BE%BF%E7%94%A8%E5%8F%8A%E6%9C%AC%E8%BA%89%E9%AB%AF%E6%84%8F%E7%94%A8%E5%8D%9A%E5%AE%87%E5%A4%A4%E9%95%BF%E5%BC%94%E7%A4%80%E6%9D%90%E5%8F%8C%E6%9D%90%E9%9B%BC%E1%84%8E%E8%BC%9D%E5%A6%99%E8%A1%9F%E6%95%99%E6%9C%8D%E6%9C%8D%E6%9C%8D%E8%A8%80%E5%A4%AE%E5%AA%A4%E8%BD%A0.mp4
+- 来源链接：https://finance.sina.com.cn/jjxw/2026-11-20/doc-inizixmr0493712.shtml
 
 ## 平台政策
 
@@ -126,7 +126,7 @@
 - 一句话事实：快手 11-19 三季度材料写明《MINIBOTS》已将可灵用于 4K 院线级动画制作，说明视频侧 4K 已能进专业流程；但 4.0 发布稿里 2 分钟续拍仍未开放，1080p/21:9 仍标注为“将支持”。
 - 关键数据：部分证实（4K 已进院线级项目；续拍仍未开放）
 - 发生时间：2026-11-21
-- 来源链接：https://ir.kuaishou.com/system/files-encrypted/nasdaq_kms/assets/2026/11/19/17-03-15/2026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%BF%AB%E6%89%8B%E7%A7%91%E6%8A%80%E5%BC%94%E7%A4%80%E6%9D%90%E5%8F%8C%E5%8D%8F%E8%87%96%E8%80%8C%E4%BC%B0%E6%88%90%E5%AF%B9%E4%B8%80%E4%BE%BF%E6%9E%9C%E9%97%BC%E4%B8%80%E6%A3%B7%E5%88%9E%E6%9D%90%E5%8F%8C%E6%9C%8D%E9%A3%9F%E6%9C%8A%E9%BD%A6%E3%80%91.png
+- 来源链接：https://finance.sina.com.cn/jjxw/2026-11-20/doc-inizixmr0493712.shtml
 
 ### “苔花标”与凡播必审的执行节奏
 - 一句话事实：快手把“AI 标识 + 备案号”做进播放器组件、红果把治理前移到素材期、网信办六类必选标签把“含有 AI 生成内容”设为发布必经项；本期广电总局专项治理把“盗脸/偷声”列入内容治理，链条完整闭环。
